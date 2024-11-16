@@ -26,3 +26,6 @@ Note: I am including the (famous) example story from the New Times San Luis Obis
 » ./55words.py < example.txt
 Body word count: 54 (limit is 55 words)
 ```
+
+## Acknowledgments
+I used chatgpt to write some of this code.
