@@ -20,7 +20,7 @@ Pipe any text into stdin:
 `./55words.py < mystory.txt`
 
 ## Example
-Note: I am including the (famous) example story from the New Times San Luis Obispo website as text here. All rights reserved by the author.
+Note: I am including the (famous) example story "Bedtime" by Jeffrey Whitmore from the New Times San Luis Obispo website as text here. All rights belong to the author.
 
 ```
 » ./55words.py < example.txt
